@@ -35,7 +35,8 @@ Data was cleaned and transformed using SQL before visualization in Power BI.
 ## 📂 Files
 
 * coffee_sales_dashboard.pbix
-* Coffee_Shop_Sales.csv
+* Coffee_Shop_Sales.xlsx
+  
 
 ## 🎯 Conclusion
 
